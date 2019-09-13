@@ -1,0 +1,18 @@
+{
+  "name": "enovision/slim-html-wrapper",
+  "description": "Middleware that wraps your output in a HTML skeleton",
+  "type": "library",
+  "require": {},
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Johan van de Merwe",
+      "email": "j.vd.merwe@enovision.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Enovision\\Slim\\HTMLWrapper\\": "src/"
+    }
+  }
+}
